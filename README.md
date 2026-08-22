@@ -20,35 +20,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [Disclaimer](#disclaimer)
 
 ## SaaS/Hosted Platforms
-- **[Toornament](https://www.toornament.com/)**  
-  Structured tournament management platform with registration, brackets, rankings, embeds, and a developer-friendly API popular in Europe and structured events.
 
-- **[Battlefy](https://battlefy.com/)**  
-  Long-standing esports tournament platform supporting multi-game events, custom branding, registration, and scalable organizer tooling.
-
-- **[Challonge](https://challonge.com/)**  
-  Fast, simple bracket and tournament generator widely used for community events, with easy result reporting and embeddable brackets.
-
-- **[Matcherino](https://matcherino.com/)**  
-  Tournament and fundraising platform that combines event management with crowdfunding and prize-pool features.
-
-- **[FACEIT](https://www.faceit.com/)**  
-  Competitive gaming platform with matchmaking, anti-cheat, leagues, and tournament infrastructure, especially strong in FPS titles.
-
-- **[Start.gg](https://www.start.gg/)**  
-  Leading tournament platform for fighting games and grassroots events, powering major gatherings like Evo with deep registration and venue features.
-
-- **[Community Gaming](https://www.communitygaming.io/)**  
-  Esports competition and community platform focused on tournament creation, player engagement, and event tooling.
-
-- **[ESL Play / ESL Forge](https://play.eslgaming.com/)**  
-  Tournament and league infrastructure from ESL, supporting community and publisher-backed competitive play.
-
-- **[Repeat.gg](https://www.repeat.gg/)**  
-  Skill-based tournament and wagering platform for competitive gaming events.
-
-- **[Game.tv](https://game.tv/)**  
-  Community tournament and amateur esports platform enabling organizers to run events across multiple titles.
+| Platform | Overview & Capabilities | Pricing (Starting Tier) | Free Tier Limits |
+| :--- | :--- | :--- | :--- |
+| **[Toornament](https://www.toornament.com/)** | Structured tournament management engine with bracket generation, custom match reporting, embed widgets, and rich REST API access. | **€19/tournament** (Boost plan) or **€19/month** (Community plan billed annually / €29/mo monthly) | **Free forever**: Up to **32 participants** per tournament across all formats (no custom registration fields, data exports, or integrated paid entry). |
+| **[Challonge](https://challonge.com/)** | Lightweight and ubiquitous bracket generator supporting single/double elimination, round-robin, and Swiss formats with public embeds. | **$6.99/month** (Premier billed annually) or **$7.99/month** (billed monthly); 14-day free trial available | **Free forever**: Unlimited tournaments up to **256 participants** per tournament (**16 participants** for FFA format); ad-supported pages. |
+| **[Start.gg](https://www.start.gg/)** | Premier grassroots and FGC tournament platform (formerly Smash.gg) with venue check-in, pool wave management, and stream queue integration. | **6% platform fee** per paid participant ticket (+ standard payment processing via Stripe/PayPal) | **Free forever**: 100% free with **unlimited participants and brackets** for free-entry tournaments (0% platform fee when entry is free). |
+| **[Matcherino](https://matcherino.com/)** | Tournament software integrating crowd-funded prize pools, spectator donation drives, and automated escrow payouts. | **4% platform fee** + payment processing on entry fees and ticket sales | **Free forever**: Free on **Starter Tier** for bracket management and registrations (excludes cash prize pool crowdfunding, SponsorQuests™, and digital pin sales). |
+| **[FACEIT](https://www.faceit.com/)** | Comprehensive competitive platform offering automated server orchestration, server-side anti-cheat, leagues, and tournament hubs. | **Free for organizers** (Optional player subscriptions: **$6.99/month** for FACEIT Plus, **$10.99/month** for FACEIT Premium) | **Free forever**: Unlimited tournament creation, automated matchmaking brackets, public Elo tracking, and anti-cheat integration. |
+| **[Battlefy](https://battlefy.com/)** | Scalable multi-game esports platform with customizable bracket trees, custom registration forms, and brand partner hubs. | **Free for community organizers** (Estimated **5%–10% fee** on paid ticket sales / custom enterprise tiers) | **Free forever**: Unlimited grassroots tournaments across all standard formats (Single/Double Elimination, Swiss, Round Robin) with standard branding. |
+| **[Community Gaming](https://www.communitygaming.io/)** | Web3 & Web2 esports tournament platform featuring automated smart-contract prize pool distribution and quest tooling. | **0% organizer payout fee** (Network gas fees apply for external crypto withdrawals; optional CG+ Tournament Passes) | **Free forever**: Unlimited free-entry tournaments, bracket generation, participant management, and instant automated prize payouts. |
+| **[Tournify](https://www.tournifyapp.com/)** | Modern tournament and league management platform with mobile apps, live public pages, and match scheduling. | **€40/event** (World Class up to 60 teams) or **€120/event** (Legendary unlimited teams) | **Free forever**: Unlimited tournaments with up to **8 teams/players** per tournament. |
+| **[Game.tv](https://game.tv/)** | AI-driven tournament management platform with Discord bot integration (Tourney Bot) for automated bracket ops. | **Free for community servers** (Optional bot/app premium subscriptions) | **Free forever**: Automated bracket generation, check-in, and match channel management for Discord community tournaments. |
+| **[ESL Play / FACEIT](https://play.eslgaming.com/)** | Historic competitive tournament infrastructure for ESL tournaments, now unified under the FACEIT competition ecosystem. | **Free for organizers** (Optional player premium from **$6.99/month**) | **Free forever**: Integrated organizer tooling with server infrastructure and anti-cheat via the FACEIT ecosystem. |
+| **[Repeat.gg](https://repeat.gg/)** | Automated asynchronous tournament and leaderboard platform (formerly Sony-acquired; ceased operations May 2026). | **Defunct / Ceased Operations** (Historically free entry with cash/coin leaderboard wagers) | **Service Discontinued**: Previously offered free-entry daily tournaments; active operations wound down in mid-2026. |
 
 ## Open-Source GitHub Projects
 - **[Bracket (evroon/bracket)](https://github.com/evroon/bracket)**  
