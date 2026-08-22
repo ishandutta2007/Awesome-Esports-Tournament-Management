@@ -1,6 +1,6 @@
 # Awesome-Esports-Tournament-Management
 
-# Top Esports Tournament Management Platforms Ecosystem
+## Top Esports Tournament Management Platforms Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Tournament Brackets, Registration, Match Reporting, Seeding, League Management & Competitive Gaming Events*
 **Last updated: August 2026**
