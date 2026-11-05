@@ -23,6 +23,7 @@ Whether you are organizing grassroots community tournaments, university leagues,
 
 ## 📑 Table of Contents
 - [🌟 Overview & Ecosystem](#-overview--ecosystem)
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [🏢 SaaS & Hosted Platforms](#-saas--hosted-platforms)
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🛠️ Developer Libraries & Bracket Generators](#-developer-libraries--bracket-generators)
@@ -40,6 +41,12 @@ Tournament management software automates critical competitive operations:
 - 📝 **Registration & Check-In**: Participant management, team rosters, wave scheduling, and attendance verification.
 - ⏱️ **Match Scheduling & Score Reporting**: Real-time dispute management, API integration, and Discord bot automation.
 - 💰 **Prize Pool & Monetization**: Escrow payouts, crowdfunding drives, SponsorQuests, and entry fee processing.
+
+---
+
+## 📊 Sector Overview & Market Dynamics
+
+The esports tournament software and competitive infrastructure market is valued at approximately **$1.8B–$2.5B**, expanding at a ~14–18% CAGR alongside the broader $4B+ global esports industry. The sector exhibits a **moderately fragmented, tier-stratified market structure** rather than a single winner-take-all monopoly: mega-conglomerates like ESL FACEIT Group dominate premier publisher-sanctioned enterprise leagues, while specialized niches (such as Start.gg in the FGC/grassroots scene and Challonge/Battlefy in collegiate and casual communities) sustain vibrant multi-player competition.
 
 ---
 
