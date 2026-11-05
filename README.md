@@ -28,6 +28,7 @@ Whether you are organizing grassroots community tournaments, university leagues,
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🛠️ Developer Libraries & Bracket Generators](#-developer-libraries--bracket-generators)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
 - [📈 Star History](#-star-history)
 - [⚖️ Disclaimer](#-disclaimer)
 
@@ -151,6 +152,17 @@ For organizers seeking custom implementations:
 2. 📝 Add your recommended platform or open-source tool to `README.md`.
 3. 🔍 Ensure you include: Platform Name, Link, Capabilities summary, Pricing / GitHub Stars badge, and Free Tier details.
 4. 🚀 Submit a Pull Request!
+
+---
+
+## 💖 Support
+
+Thank you for exploring and utilizing this resource! If you find this curated directory helpful for your tournaments, projects, or organization, please consider supporting the project:
+
+- ⭐ **Star this repository** on GitHub to help others discover it.
+- 🍴 **Fork and contribute** by adding new tools, libraries, or platforms.
+- 📢 **Share it** with fellow tournament organizers, developers, and esports communities.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing maintenance and future updates, you can sponsor through the **[GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)**.
 
 ---
 
