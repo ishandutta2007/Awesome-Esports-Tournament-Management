@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Esports-Tournament-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Esports-Tournament-Management?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Esports-Tournament-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Esports-Tournament-Management?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Esports-Tournament-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Esports-Tournament-Management?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Esports-Tournament-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Esports-Tournament-Management?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Esports-Tournament-Management/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -73,66 +73,66 @@ The esports tournament software and competitive infrastructure market is valued 
 
 ## 💻 Open-Source GitHub Projects
 
-*Self-hosted tournament platforms, bracket frameworks, and community esports tooling sorted by GitHub Star count (descending).*
+*Self-hosted tournament platforms, bracket frameworks, and community esports tooling sorted by GitHub Stars_Count (descending).*
 
-1. **[Bracket (evroon/bracket)](https://github.com/evroon/bracket)** [![GitHub stars](https://img.shields.io/github/stars/evroon/bracket?style=social&color=white)](https://github.com/evroon/bracket/stargazers)  
+1. **[Bracket (evroon/bracket)](https://github.com/evroon/bracket)** [![GitHub_Stars](https://img.shields.io/github/stars/evroon/bracket?style=social&color=white)](https://github.com/evroon/bracket/stargazers)  
    🚀 Full-stack self-hosted tournament management platform built with FastAPI (Python) and React (Vite). Supports Swiss, Round-Robin, Single/Double Elimination, multi-stage structures, and public dashboards.
 
-2. **[brackets-manager.js (Drarig29/brackets-manager.js)](https://github.com/Drarig29/brackets-manager.js)** [![GitHub stars](https://img.shields.io/github/stars/Drarig29/brackets-manager.js?style=social&color=white)](https://github.com/Drarig29/brackets-manager.js/stargazers)  
+2. **[brackets-manager.js (Drarig29/brackets-manager.js)](https://github.com/Drarig29/brackets-manager.js)** [![GitHub_Stars](https://img.shields.io/github/stars/Drarig29/brackets-manager.js?style=social&color=white)](https://github.com/Drarig29/brackets-manager.js/stargazers)  
    ⚡ Feature-complete TypeScript/JavaScript library to create and manage tournament data structures (Round-Robin, Single & Double Elimination) with pluggable storage adapters.
 
-3. **[react-tournament-brackets (g-loot/react-tournament-brackets)](https://github.com/g-loot/react-tournament-brackets)** [![GitHub stars](https://img.shields.io/github/stars/g-loot/react-tournament-brackets?style=social&color=white)](https://github.com/g-loot/react-tournament-brackets/stargazers)  
+3. **[react-tournament-brackets (g-loot/react-tournament-brackets)](https://github.com/g-loot/react-tournament-brackets)** [![GitHub_Stars](https://img.shields.io/github/stars/g-loot/react-tournament-brackets?style=social&color=white)](https://github.com/g-loot/react-tournament-brackets/stargazers)  
    🎨 Production-ready React component library for rendering interactive bracket trees and leaderboard visualizations.
 
-4. **[lol-pick-ban-ui (RCVolus/lol-pick-ban-ui)](https://github.com/RCVolus/lol-pick-ban-ui)** [![GitHub stars](https://img.shields.io/github/stars/RCVolus/lol-pick-ban-ui?style=social&color=white)](https://github.com/RCVolus/lol-pick-ban-ui/stargazers)  
+4. **[lol-pick-ban-ui (RCVolus/lol-pick-ban-ui)](https://github.com/RCVolus/lol-pick-ban-ui)** [![GitHub_Stars](https://img.shields.io/github/stars/RCVolus/lol-pick-ban-ui?style=social&color=white)](https://github.com/RCVolus/lol-pick-ban-ui/stargazers)  
    🎯 Web-based overlay UI for displaying League of Legends champion pick/ban phases in competitive esports broadcasts.
 
-5. **[react-tournament-bracket (moodysalem/react-tournament-bracket)](https://github.com/moodysalem/react-tournament-bracket)** [![GitHub stars](https://img.shields.io/github/stars/moodysalem/react-tournament-bracket?style=social&color=white)](https://github.com/moodysalem/react-tournament-bracket/stargazers)  
+5. **[react-tournament-bracket (moodysalem/react-tournament-bracket)](https://github.com/moodysalem/react-tournament-bracket)** [![GitHub_Stars](https://img.shields.io/github/stars/moodysalem/react-tournament-bracket?style=social&color=white)](https://github.com/moodysalem/react-tournament-bracket/stargazers)  
    🕹️ SVG-powered React tournament bracket visualizer with interactive match hover path highlights.
 
-6. **[brackets-viewer.js (Drarig29/brackets-viewer.js)](https://github.com/Drarig29/brackets-viewer.js)** [![GitHub stars](https://img.shields.io/github/stars/Drarig29/brackets-viewer.js?style=social&color=white)](https://github.com/Drarig29/brackets-viewer.js/stargazers)  
+6. **[brackets-viewer.js (Drarig29/brackets-viewer.js)](https://github.com/Drarig29/brackets-viewer.js)** [![GitHub_Stars](https://img.shields.io/github/stars/Drarig29/brackets-viewer.js?style=social&color=white)](https://github.com/Drarig29/brackets-viewer.js/stargazers)  
    🖥️ Clean and responsive DOM visualizer companion for `brackets-manager.js` to render interactive brackets directly in web applications.
 
-7. **[KRTournamentView (krimpedance/KRTournamentView)](https://github.com/krimpedance/KRTournamentView)** [![GitHub stars](https://img.shields.io/github/stars/krimpedance/KRTournamentView?style=social&color=white)](https://github.com/krimpedance/KRTournamentView/stargazers)  
+7. **[KRTournamentView (krimpedance/KRTournamentView)](https://github.com/krimpedance/KRTournamentView)** [![GitHub_Stars](https://img.shields.io/github/stars/krimpedance/KRTournamentView?style=social&color=white)](https://github.com/krimpedance/KRTournamentView/stargazers)  
    📱 Flexible tournament bracket view component designed for iOS applications written in Swift.
 
-8. **[expo-tournament-bracket (arunabhverma/expo-tournament-bracket)](https://github.com/arunabhverma/expo-tournament-bracket)** [![GitHub stars](https://img.shields.io/github/stars/arunabhverma/expo-tournament-bracket?style=social&color=white)](https://github.com/arunabhverma/expo-tournament-bracket/stargazers)  
+8. **[expo-tournament-bracket (arunabhverma/expo-tournament-bracket)](https://github.com/arunabhverma/expo-tournament-bracket)** [![GitHub_Stars](https://img.shields.io/github/stars/arunabhverma/expo-tournament-bracket?style=social&color=white)](https://github.com/arunabhverma/expo-tournament-bracket/stargazers)  
    📱 Smooth, animated tournament brackets built with Expo, React Native, and Reanimated.
 
-9. **[jquery.gracket.js (Zettersten/jquery.gracket.js)](https://github.com/Zettersten/jquery.gracket.js)** [![GitHub stars](https://img.shields.io/github/stars/Zettersten/jquery.gracket.js?style=social&color=white)](https://github.com/Zettersten/jquery.gracket.js/stargazers)  
+9. **[jquery.gracket.js (Zettersten/jquery.gracket.js)](https://github.com/Zettersten/jquery.gracket.js)** [![GitHub_Stars](https://img.shields.io/github/stars/Zettersten/jquery.gracket.js?style=social&color=white)](https://github.com/Zettersten/jquery.gracket.js/stargazers)  
    🧩 Interactive jQuery plugin to generate tournament brackets with team hover highlighting across rounds.
 
-10. **[tournament-generator (Heroyt/tournament-generator)](https://github.com/Heroyt/tournament-generator)** [![GitHub stars](https://img.shields.io/github/stars/Heroyt/tournament-generator?style=social&color=white)](https://github.com/Heroyt/tournament-generator/stargazers)  
+10. **[tournament-generator (Heroyt/tournament-generator)](https://github.com/Heroyt/tournament-generator)** [![GitHub_Stars](https://img.shields.io/github/stars/Heroyt/tournament-generator?style=social&color=white)](https://github.com/Heroyt/tournament-generator/stargazers)  
     ⚙️ PHP library to generate and simulate multiple tournament bracket formats, including round-robin, Swiss, and elimination trees.
 
-11. **[TournamentBrackets (emil-ep/TournamentBrackets)](https://github.com/emil-ep/TournamentBrackets)** [![GitHub stars](https://img.shields.io/github/stars/emil-ep/TournamentBrackets?style=social&color=white)](https://github.com/emil-ep/TournamentBrackets/stargazers)  
+11. **[TournamentBrackets (emil-ep/TournamentBrackets)](https://github.com/emil-ep/TournamentBrackets)** [![GitHub_Stars](https://img.shields.io/github/stars/emil-ep/TournamentBrackets?style=social&color=white)](https://github.com/emil-ep/TournamentBrackets/stargazers)  
     🤖 Native Android library written in Java for generating and animating tournament brackets with smooth gestures.
 
-12. **[vue-tournament-bracket (kamilwylegala/vue-tournament-bracket)](https://github.com/kamilwylegala/vue-tournament-bracket)** [![GitHub stars](https://img.shields.io/github/stars/kamilwylegala/vue-tournament-bracket?style=social&color=white)](https://github.com/kamilwylegala/vue-tournament-bracket/stargazers)  
+12. **[vue-tournament-bracket (kamilwylegala/vue-tournament-bracket)](https://github.com/kamilwylegala/vue-tournament-bracket)** [![GitHub_Stars](https://img.shields.io/github/stars/kamilwylegala/vue-tournament-bracket?style=social&color=white)](https://github.com/kamilwylegala/vue-tournament-bracket/stargazers)  
     🌿 Vue.js component for rendering clean single-elimination tournament brackets with customizable team slots.
 
-13. **[pychallonge (russ-/pychallonge)](https://github.com/russ-/pychallonge)** [![GitHub stars](https://img.shields.io/github/stars/russ-/pychallonge?style=social&color=white)](https://github.com/russ-/pychallonge/stargazers)  
+13. **[pychallonge (russ-/pychallonge)](https://github.com/russ-/pychallonge)** [![GitHub_Stars](https://img.shields.io/github/stars/russ-/pychallonge?style=social&color=white)](https://github.com/russ-/pychallonge/stargazers)  
     🐍 Official Python client wrapper and bindings for programmatically managing tournaments via the Challonge REST API.
 
-14. **[bracket (g33kidd/bracket)](https://github.com/g33kidd/bracket)** [![GitHub stars](https://img.shields.io/github/stars/g33kidd/bracket?style=social&color=white)](https://github.com/g33kidd/bracket/stargazers)  
+14. **[bracket (g33kidd/bracket)](https://github.com/g33kidd/bracket)** [![GitHub_Stars](https://img.shields.io/github/stars/g33kidd/bracket?style=social&color=white)](https://github.com/g33kidd/bracket/stargazers)  
     🔥 Full-stack esports tournament and league management framework built on Laravel and PHP.
 
-15. **[openbracketformat (openbracketformat/openbracketformat)](https://github.com/openbracketformat/openbracketformat)** [![GitHub stars](https://img.shields.io/github/stars/openbracketformat/openbracketformat?style=social&color=white)](https://github.com/openbracketformat/openbracketformat/stargazers)  
+15. **[openbracketformat (openbracketformat/openbracketformat)](https://github.com/openbracketformat/openbracketformat)** [![GitHub_Stars](https://img.shields.io/github/stars/openbracketformat/openbracketformat?style=social&color=white)](https://github.com/openbracketformat/openbracketformat/stargazers)  
     📐 Open JSON specification and data standard for esports tournament bracket structures, matches, and participant seeds.
 
-16. **[etournity (etournity/etournity)](https://github.com/etournity/etournity)** [![GitHub stars](https://img.shields.io/github/stars/etournity/etournity?style=social&color=white)](https://github.com/etournity/etournity/stargazers)  
+16. **[etournity (etournity/etournity)](https://github.com/etournity/etournity)** [![GitHub_Stars](https://img.shields.io/github/stars/etournity/etournity?style=social&color=white)](https://github.com/etournity/etournity/stargazers)  
     🌐 Self-hosted open-source esports tournament platform designed for rapid deployment and community events.
 
-17. **[bgmi-esports-tournament-hub (mfournier1992/bgmi-esports-tournament-hub)](https://github.com/mfournier1992/bgmi-esports-tournament-hub)** [![GitHub stars](https://img.shields.io/github/stars/mfournier1992/bgmi-esports-tournament-hub?style=social&color=white)](https://github.com/mfournier1992/bgmi-esports-tournament-hub/stargazers)  
+17. **[bgmi-esports-tournament-hub (mfournier1992/bgmi-esports-tournament-hub)](https://github.com/mfournier1992/bgmi-esports-tournament-hub)** [![GitHub_Stars](https://img.shields.io/github/stars/mfournier1992/bgmi-esports-tournament-hub?style=social&color=white)](https://github.com/mfournier1992/bgmi-esports-tournament-hub/stargazers)  
     📱 Web platform for organizing mobile esports tournaments with player registration, score submission, and live points tables.
 
-18. **[ChallongePHP (teamreflex/ChallongePHP)](https://github.com/teamreflex/ChallongePHP)** [![GitHub stars](https://img.shields.io/github/stars/teamreflex/ChallongePHP?style=social&color=white)](https://github.com/teamreflex/ChallongePHP/stargazers)  
+18. **[ChallongePHP (teamreflex/ChallongePHP)](https://github.com/teamreflex/ChallongePHP)** [![GitHub_Stars](https://img.shields.io/github/stars/teamreflex/ChallongePHP?style=social&color=white)](https://github.com/teamreflex/ChallongePHP/stargazers)  
     🐘 Comprehensive PHP SDK and client library for interacting with the Challonge tournament API.
 
-19. **[tournament-system (ozfortress/tournament-system)](https://github.com/ozfortress/tournament-system)** [![GitHub stars](https://img.shields.io/github/stars/ozfortress/tournament-system?style=social&color=white)](https://github.com/ozfortress/tournament-system/stargazers)  
+19. **[tournament-system (ozfortress/tournament-system)](https://github.com/ozfortress/tournament-system)** [![GitHub_Stars](https://img.shields.io/github/stars/ozfortress/tournament-system?style=social&color=white)](https://github.com/ozfortress/tournament-system/stargazers)  
     💎 Modular Ruby gem implementing competition systems including Swiss pairing, Page playoff, and Round-Robin.
 
-20. **[Challonge-Bot (jamalcwoods/Challonge-Bot)](https://github.com/jamalcwoods/Challonge-Bot)** [![GitHub stars](https://img.shields.io/github/stars/jamalcwoods/Challonge-Bot?style=social&color=white)](https://github.com/jamalcwoods/Challonge-Bot/stargazers)  
+20. **[Challonge-Bot (jamalcwoods/Challonge-Bot)](https://github.com/jamalcwoods/Challonge-Bot)** [![GitHub_Stars](https://img.shields.io/github/stars/jamalcwoods/Challonge-Bot?style=social&color=white)](https://github.com/jamalcwoods/Challonge-Bot/stargazers)  
     🤖 Discord bot providing seamless integration with Challonge brackets for player check-ins, match assignments, and score logs.
 
 ---
@@ -150,7 +150,7 @@ For organizers seeking custom implementations:
 
 1. 🍴 Fork this repository.
 2. 📝 Add your recommended platform or open-source tool to `README.md`.
-3. 🔍 Ensure you include: Platform Name, Link, Capabilities summary, Pricing / GitHub Stars badge, and Free Tier details.
+3. 🔍 Ensure you include: Platform Name, Link, Capabilities summary, Pricing / GitHub_Stars_Badge, and Free Tier details.
 4. 🚀 Submit a Pull Request!
 
 ---
@@ -184,3 +184,12 @@ Thank you for exploring and utilizing this resource! If you find this curated di
   <b>Built for esports organizers, tournament admins, and competitive gaming developers.</b><br />
   <sub>Maintained with ❤️ by the open-source community.</sub>
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Esports-Tournament-Management&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Esports-Tournament-Management_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Esports-Tournament-Management_growth.svg">
+  </picture>
+</a>
